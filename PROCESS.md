@@ -1,4 +1,4 @@
-# Process: How I used AI for this assignments
+# Process: How I used AI for this assignmentss
 
 ## Tools used
 I used the Doubao AI assistant for this assignment. All core viewpoints and ideas in the essay are my own. I used AI to support brainstorming, content organisation and document formatting.
