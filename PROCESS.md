@@ -1,4 +1,4 @@
-# Process: How I used AI for this assignment
+# Process: How I used AI for this assignments
 
 ## Tools used
 I used the Doubao AI assistant for this assignment. All core viewpoints and ideas in the essay are my own. I used AI to support brainstorming, content organisation and document formatting.
@@ -7,7 +7,7 @@ When I received Dylan Beattie’s one‑hour talk video, I did not watch it from
 
 After watching the talk, I pasted all my scattered, unorganised thoughts into the chat as one big block of text. I only asked Doubao to reorganise my wording. It turned my rough notes into well‑structured paragraphs. I double‑checked carefully to make sure the reorganised text faithfully represented what I wanted to say.
 
-## One piece of AI‑generated content I kept
+## One piece of AI‑generated content I kept 
 I kept the well‑structured paragraph layout and polished sentences produced from my raw thoughts. I also used the HTML styling code it created to adjust font size, colour and italics for the title, note section and bibliography inside README.md. These are only formal improvements and did not change my original arguments.
 
 ## Content produced by AI that I rejected
